@@ -1,3 +1,5 @@
+=== 0.1.1 / 2019-08-19
+* Added bash_ which allow any command to run
 === 0.1.0 / 2019-08-19
 * Install ubuntu wsl from winsub_cli
 * Open current dir in nano, vim
