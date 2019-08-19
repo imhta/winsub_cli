@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+
 require 'ubuntu/install'
 if(ARGV[0] == 'ubuntu')
   UbuntuInstall.new
