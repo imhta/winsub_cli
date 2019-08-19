@@ -1,1 +1,2 @@
-system "bash -c 'vi .'"
+#!/usr/bin/env ruby
+require 'util/vim'

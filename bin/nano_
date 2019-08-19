@@ -1,1 +1,2 @@
-system "bash -c 'nano .'"
+#!/usr/bin/env ruby
+require 'util/nano'

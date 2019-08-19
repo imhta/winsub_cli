@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+require 'ubuntu/install'
+if(ARGV[0] == 'ubuntu')
+  UbuntuInstall.new
+else
+  puts "You can use it for installing ubuntu subsystem"
+end

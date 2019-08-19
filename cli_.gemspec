@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = 'command line utilities for windows subsystem'
   s.authors     = ['imhtapm']
   s.email       = 'imhtapm@gmail.com'
-  s.files       = []
+  s.files       = ['lib/ubuntu/install.rb', 'lib/util/nano.rb', 'lib/util/vim.rb']
   s.homepage    =  'https://rubygems.org/gems/cli_'
   s.metadata    = { "source_code_uri" => "https://github.com/imhta/cli_" }
   s.license = 'MIT'
