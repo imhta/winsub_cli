@@ -1,6 +1,7 @@
 # Implementation TODO
-- [ ] bash vim 
-- [ ] bash nano
+- [x] install wsl 
+- [x] bash vim 
+- [x] bash nano
 
 
 
