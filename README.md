@@ -32,7 +32,7 @@ It use choco package manager to install ubuntu, so first it will install choco f
 
 ### > bash_
 
-This command run any bash command from windows to wsl. It is same a using wsl command.
+This command run any bash command from windows to wsl. It is same as using wsl command.
 
 ```
 bash_ sudo apt update
