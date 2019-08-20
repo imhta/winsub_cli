@@ -21,7 +21,7 @@ gem install winsub_cli
 
 ## Usage
 
-### install_
+### > install_
 
 This command used install ubuntu wsl in windows
 
@@ -30,14 +30,22 @@ install_ ubuntu
 ```
 It use choco package manager to install ubuntu, so first it will install choco first then it will install ubuntu.
 
-### nano_
+### > bash_
+
+This command used run any bash command from windows to wsl
+
+```
+bash_ sudo apt update
+```
+
+### > nano_
 
 ```
 nano_
 ```
 Using this command you can open nano editor in current directory
 
-### vi_
+### > vi_
 
 ```
 vi_
